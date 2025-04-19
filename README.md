@@ -1,6 +1,6 @@
-![Design and Development](https://github.com/HAMZAELMANZARI/hamzaelmanzari/master/problem-solving.png)
+![Coding Design and Development](https://github.com/HAMZAELMANZARI/hamzaelmanzari/master/problem-solving.png)
 
-# Adrian Twarog
+# Hamza El Manzari
 I'm Hamza from Morocco, and I do content on Coding Design and Development. I really enjoy learning languages and frameworks like Python and Django, as well as work in WordPress. I also enjoy wireframing, Python, Django and Front-end Devolpment in general. 
 
 ## Skills and Experience
