@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, i'm Hamza El Manzari.<br>I'm a frontend developer from Egypt.
+Hi there, I'm Hamza El Manzari.<br>I'm a frontend developer from Egypt.
 
 
 ## 🌐 Socials:
